@@ -29,21 +29,21 @@
       },
       "versions": [
           {
-              "version": "1.0",
-              "buildVersion": "1",
-              "date": "2025-10-01",
-              "size": 3283456,
-              "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V1_0.ipa",
-              "localizedDescription": "梦开始的地方！\n这个版本只满足了基础的本地AA分账功能。",
-              "minOSVersion": "16.0"
-          },
-          {
               "version": "1.2",
               "buildVersion": "1",
               "date": "2025-10-04",
               "size": 540014,
               "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V1_2.ipa",
               "localizedDescription": "加入了蓝牙/WiFi同步共享账本的功能和朋友系统，\nApp功能初见雏形，但是偶尔闪退？！",
+              "minOSVersion": "16.0"
+          },
+          {
+              "version": "1.0",
+              "buildVersion": "1",
+              "date": "2025-10-01",
+              "size": 3283456,
+              "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V1_0.ipa",
+              "localizedDescription": "梦开始的地方！\n这个版本只满足了基础的本地AA分账功能。",
               "minOSVersion": "16.0"
           }
       ],

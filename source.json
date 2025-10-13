@@ -12,6 +12,7 @@
       "bundleIdentifier": "com.guo.kuaiji",
       "developerName": "Guo",
       "subtitle": "本地账本,支持 AA 分账,个人记账,及蓝牙/Wi-Fi 同步。",
+      "localizedDescription": "一款纯本地账本应用，支持 AA 分账、个人账户管理（记账）及蓝牙/Wi-Fi 同步。",
       "category": "utilities",
       "iconURL": "https://guoran7771.github.io/Guo_s_Apps/assets/KuaiJi_assets/KuaiJi_icon.png",
       "tintColor": "#B8DAFF",

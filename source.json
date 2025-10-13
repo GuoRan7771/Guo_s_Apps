@@ -29,6 +29,15 @@
       },
       "versions": [
           {
+              "version": "4.0",
+              "buildVersion": "2",
+              "date": "2025-10-14",
+              "size": 1935937,
+              "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V4.ipa",
+              "localizedDescription": "新增个人账本页面，快速记账功能，快速导出CSV，App数据备份等新功能。\nApp功能层面的更新将暂停，只进行修bug的小更新。\n很开心走到的走到这一步，希望你享受使用这个App！",
+              "minOSVersion": "16.0"
+          },
+          {
               "version": "1.2",
               "buildVersion": "1",
               "date": "2025-10-04",

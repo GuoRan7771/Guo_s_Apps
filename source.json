@@ -1,7 +1,7 @@
 {
   "name": "Guo's Apps",
   "subtitle": "闲暇时自己做的Apps",
-  "description": "欢迎使用我的App，如果你有任何建议或意见，欢迎与我联系。  Email:rwg184849@gmail.com",
+  "description": "欢迎使用我的App，如果你有任何建议或意见，欢迎与我联系。\nEmail:rwg184849@gmail.com",
   "website": "https://github.com/GuoRan7771/Guo_s_Apps", 
   "tintColor": "#B8DAFF",
   "headerURL": "https://guoran7771.github.io/Guo_s_Apps/assets/Source_assets/Source_header.png",
@@ -11,7 +11,7 @@
       "name": "KuaiJi",
       "bundleIdentifier": "com.guo.kuaiji",
       "developerName": "Guo",
-      "subtitle": "本地账本,支持 AA 分账,个人记账,及蓝牙/Wi-Fi 同步。",
+      "subtitle": "我真的很开心这个APP可以以这样一种方式与你见面，等我有时间会上架App Store的，等我！",
       "localizedDescription": "一款纯本地账本应用，支持 AA 分账、个人账户管理（记账）及蓝牙/Wi-Fi 同步。",
       "category": "utilities",
       "iconURL": "https://guoran7771.github.io/Guo_s_Apps/assets/KuaiJi_assets/KuaiJi_icon.png",
@@ -20,13 +20,11 @@
         "entitlements": [
           "com.apple.developer.networking.wifi-info",
           "com.apple.developer.bluetooth",
-          "com.apple.security.application-groups",
-          "com.apple.developer.usernotifications"
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSBluetoothAlwaysUsageDescription": "App uses Bluetooth to sync data with nearby devices.",
-          "NSLocalNetworkUsageDescription": "App connects to nearby devices on the local network for syncing.",
-          "NSMicrophoneUsageDescription": "App uses the microphone for optional voice input when recording expenses."
+          "NSLocalNetworkUsageDescription": "App connects to nearby devices on the local network for syncing."
         }
       },
       "versions": [
@@ -38,7 +36,7 @@
               "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V1_0.ipa",
               "localizedDescription": "梦开始的地方",
               "minOSVersion": "16.0"
-          }
+          },
       ],
       "screenshots": [
         {

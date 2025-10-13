@@ -1,53 +1,70 @@
 {
   "name": "Guo's Apps",
   "subtitle": "闲暇时自己做的Apps",
-  "description": "欢迎使用我的App，如果你有任何建议或意见，欢迎与我联系。",
-  "website": "https://guoran7771.github.io/KuaiJi_IOSApp", 
+  "description": "欢迎使用我的App，如果你有任何建议或意见，欢迎与我联系。  Email:rwg184849@gmail.com",
+  "website": "https://github.com/GuoRan7771/Guo_s_Apps", 
   "tintColor": "#B8DAFF",
-  "headerURL": "https://guoran7771.github.io/KuaiJi_IOSApp/header.png",
-  "iconURL": "https://guoran7771.github.io/KuaiJi_IOSApp/icon.png",
+  "headerURL": "https://guoran7771.github.io/Guo_s_Apps/assets/Source_assets/Source_header.png",
+  "iconURL": "https://guoran7771.github.io/Guo_s_Apps/assets/Source_assets/Source_icon.png",
   "apps": [
     {
       "name": "KuaiJi",
       "bundleIdentifier": "com.guo.kuaiji",
       "developerName": "Guo",
-      "subtitle": "本地账本,支持 AA 分账,个人记账,及蓝牙/Wi-Fi 同步。"
+      "subtitle": "本地账本,支持 AA 分账,个人记账,及蓝牙/Wi-Fi 同步。",
       "category": "utilities",
-      "versions": [
-   {
-    "version": "1.1",
-    "buildVersion": "2",
-    "date": "2024-05-25",
-    "localizedDescription": "First AltStore Update!",
-    "downloadURL": "https://myapp.com/myapp-1.1.ipa",
-    "size": 80925,
-    "minOSVersion": "14.0",
-    "maxOSVersion": "16.3"
-  }
-  {
-    "version": "1.0",
-    "buildVersion": "1",
-    "date": "2024-03-30",
-    "localizedDescription": "First AltStore release!",
-    "downloadURL": "https://myapp.com/myapp-1.0.ipa",
-    "size": 79821,
-    "minOSVersion": "12.0",
-    "maxOSVersion": "16.3"
-  },
-]
-      "versionDate": "2025-10-11T09:00:00+02:00",
-      "versionDescription": "初始发布版本。",                              
-      "languages": ["zh", "en", "fr"], 
-      "permissions": ["Bluetooth", "Local Network"],
-      "downloadURL": "https://guoran7771.github.io/KuaiJi_IOSApp/ipa/KuaiJi.ipa",
-      "localizedDescription": "一款纯本地账本应用，支持 AA 分账、个人账户管理（记账）及蓝牙/Wi-Fi 同步。",
-      "iconURL": "https://guoran7771.github.io/KuaiJi_IOSApp/icon.png",
+      "iconURL": "https://guoran7771.github.io/Guo_s_Apps/assets/KuaiJi_assets/KuaiJi_icon.png",
       "tintColor": "#B8DAFF",
-      "size": 1876535,
-      "minOSVersion": "16.0",
-      "screenshotURLs": [
-        "https://guoran7771.github.io/KuaiJi_IOSApp/s1.png"
-      ]
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.bluetooth",
+          "com.apple.security.application-groups",
+          "com.apple.developer.usernotifications"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "App uses Bluetooth to sync data with nearby devices.",
+          "NSLocalNetworkUsageDescription": "App connects to nearby devices on the local network for syncing.",
+          "NSMicrophoneUsageDescription": "App uses the microphone for optional voice input when recording expenses."
+        }
+      },
+      "versions": [
+          {
+              "version": "1.1",
+              "date": "2022-05-01T09:00:00-08:00",
+              "size": 20000000,
+              "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/KuaiJi.ipa",
+              "localizedDescription": "New features and bug fixes.",
+              "minOSVersion": "16.0"
+          }
+      ],
+      "screenshots": [
+        {
+          "imageURL": "https://guoran7771.github.io/Guo_s_Apps/assets/KuaiJi_assets/s1.png",
+          "width": 1206,
+          "height": 2622
+        },
+        {
+          "imageURL": "https://guoran7771.github.io/Guo_s_Apps/assets/KuaiJi_assets/s2.png",
+          "width": 1206,
+          "height": 2622
+        },
+        {
+          "imageURL": "https://guoran7771.github.io/Guo_s_Apps/assets/KuaiJi_assets/s3.png",
+          "width": 1206,
+          "height": 2622
+        },
+        {
+          "imageURL": "https://guoran7771.github.io/Guo_s_Apps/assets/KuaiJi_assets/s4.png",
+          "width": 1206,
+          "height": 2622
+        },
+        {
+          "imageURL": "https://guoran7771.github.io/Guo_s_Apps/assets/KuaiJi_assets/s5.png",
+          "width": 1206,
+          "height": 2622
+        }
+      ]   
     }
   ]
 }

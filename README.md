@@ -1,3 +1,10 @@
+<p align="center">
+  🌐 <b>语言 / Language / Langue :</b>
+  <b>中文</b> |
+  <a href="README_EN.md">English</a> |
+  <a href="README_FR.md">Français</a>
+</p>
+
 # Guo_s_Apps  
 Guo's Source  
 
@@ -65,6 +72,9 @@ guoran7771.github.io/Guo_s_Apps/source.json
 
 系统会使用安装在电脑上的 **AltServer** 以你的 Apple ID 进行签名，有效期为 7 天。  
 要持续使用这些应用，需每隔不超过 7 天，将电脑与手机连接（Wi-Fi 或有线）以续签。
+
+有点麻烦？
+～～别骂我，骂苹果，都是苹果制定的规则！！～～
 
 ---
 

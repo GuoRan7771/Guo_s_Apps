@@ -1,7 +1,11 @@
 {
   "name": "Guo's Apps",
   "subtitle": "Side projects I built for fun!",
-  "description": "Welcome to my app — if you have any feedback or suggestions, feel free to contact me.\n欢迎使用我的App，如果你有任何建议或意见，欢迎与我联系。\nMerci d’utiliser mon application ; si vous avez des remarques ou des suggestions, n’hésitez pas à me contacter.\nEmail:rwg184849@gmail.com",
+  "description": "Welcome to my app — if you have any feedback or suggestions, feel free to contact me.\n\
+欢迎使用我的App，如果你有任何建议或意见，欢迎与我联系。\n\
+Merci d’utiliser mon application ; si vous avez des remarques ou des suggestions, n’hésitez pas à me contacter。\n\
+Email: rwg184849@gmail.com",
+
   "website": "https://github.com/GuoRan7771/Guo_s_Apps", 
   "tintColor": "#40826D",
   "headerURL": "https://guoran7771.github.io/Guo_s_Apps/assets/Source_assets/Source_header.png",
@@ -12,7 +16,9 @@
       "bundleIdentifier": "com.guo.kuaiji",
       "developerName": "Guo",
       "subtitle": "I’m really glad this app has finally met you. See you again on the App Store!",
-      "localizedDescription": "A fully local accounting app supporting AA expense splitting, personal account management, and Bluetooth/Wi-Fi synchronization.\n一款纯本地账本应用，支持 AA 分账、个人账户管理（记账）及蓝牙/Wi-Fi 同步。\nUne application de comptabilité entièrement locale, prenant en charge le partage des dépenses (AA), la gestion de comptes personnels et la synchronisation Bluetooth/Wi-Fi.",
+      "localizedDescription": "A fully local accounting app supporting AA expense splitting, personal account management, and Bluetooth/Wi-Fi synchronization.\n\
+一款纯本地账本应用，支持 AA 分账、个人账户管理（记账）及蓝牙/Wi-Fi 同步。\n\
+Une application de comptabilité entièrement locale, prenant en charge le partage des dépenses (AA), la gestion de comptes personnels et la synchronisation Bluetooth/Wi-Fi."
       "category": "utilities",
       "iconURL": "https://guoran7771.github.io/Guo_s_Apps/assets/KuaiJi_assets/KuaiJi_icon.png",
       "tintColor": "#40826D",
@@ -34,10 +40,14 @@
               "date": "2025-10-14",
               "size": 1935937,
               "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V4.ipa",
-              "localizedDescription": "Newly added features include: personal ledger page, quick-add transactions, CSV export, and app data backup.
-Feature development will pause for now; only small bug-fix updates will continue.
-I’m truly happy to have reached this stage — hope you enjoy using this app!\n新增个人账本页面，快速记账功能，快速导出CSV，App数据备份等新功能。\nApp功能层面的更新将暂停，只进行修bug的小更新。\n很开心走到的走到这一步，希望你享受使用这个App！\nNouvelles fonctionnalités : page de compte personnel, saisie rapide, exportation CSV et sauvegarde des données.
-Les mises à jour de fonctionnalités sont suspendues pour le moment ; seules de petites corrections de bugs seront effectuées.
+              "localizedDescription": "Newly added features include: personal ledger page, quick-add transactions, CSV export, and app data backup.\n\
+Feature development will pause for now; only small bug-fix updates will continue.\n\
+I’m truly happy to have reached this stage — hope you enjoy using this app!\n\
+新增个人账本页面，快速记账功能，快速导出 CSV，App 数据备份等新功能。\n\
+App 功能层面的更新将暂停，只进行修 bug 的小更新。\n\
+很开心走到这一步，希望你享受使用这个 App！\n\
+Nouvelles fonctionnalités : page de compte personnel, saisie rapide, exportation CSV et sauvegarde des données.\n\
+Les mises à jour de fonctionnalités sont suspendues pour le moment ; seules de petites corrections de bugs seront effectuées.\n\
 Je suis vraiment content d’en être arrivé là ; j’espère que vous apprécierez l’utiliser !",
               "minOSVersion": "18.0"
           },

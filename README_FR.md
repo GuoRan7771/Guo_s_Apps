@@ -1,8 +1,8 @@
 <p align="center">
   <b>Langue / Language / 语言 :</b>
   <b>Français</b> |
-  <a href="README.md">中文</a> |
-  <a href="README_EN.md">English</a>
+  <a href="README.md">English</a> |
+  <a href="README_CN.md">中文</a>
 </p>
 
 # Guo_s_Apps  

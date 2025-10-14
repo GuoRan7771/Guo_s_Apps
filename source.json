@@ -3,7 +3,7 @@
   "subtitle": "闲暇时自己做的Apps",
   "description": "欢迎使用我的App，如果你有任何建议或意见，欢迎与我联系。\nEmail:rwg184849@gmail.com",
   "website": "https://github.com/GuoRan7771/Guo_s_Apps", 
-  "tintColor": "#B8DAFF",
+  "tintColor": "#40826D",
   "headerURL": "https://guoran7771.github.io/Guo_s_Apps/assets/Source_assets/Source_header.png",
   "iconURL": "https://guoran7771.github.io/Guo_s_Apps/assets/Source_assets/Source_icon.png",
   "apps": [
@@ -15,7 +15,7 @@
       "localizedDescription": "一款纯本地账本应用，支持 AA 分账、个人账户管理（记账）及蓝牙/Wi-Fi 同步。",
       "category": "utilities",
       "iconURL": "https://guoran7771.github.io/Guo_s_Apps/assets/KuaiJi_assets/KuaiJi_icon.png",
-      "tintColor": "#B8DAFF",
+      "tintColor": "#40826D",
       "appPermissions": {
         "entitlements": [
           "com.apple.developer.networking.wifi-info",
@@ -35,7 +35,7 @@
               "size": 1935937,
               "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V4.ipa",
               "localizedDescription": "新增个人账本页面，快速记账功能，快速导出CSV，App数据备份等新功能。\nApp功能层面的更新将暂停，只进行修bug的小更新。\n很开心走到的走到这一步，希望你享受使用这个App！",
-              "minOSVersion": "16.0"
+              "minOSVersion": "18.0"
           },
           {
               "version": "1.2",
@@ -44,7 +44,7 @@
               "size": 540014,
               "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V1_2.ipa",
               "localizedDescription": "加入了蓝牙/WiFi同步共享账本的功能和朋友系统，\nApp功能初见雏形，但是偶尔闪退？！",
-              "minOSVersion": "16.0"
+              "minOSVersion": "18.0"
           },
           {
               "version": "1.0",
@@ -53,7 +53,7 @@
               "size": 3283456,
               "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V1_0.ipa",
               "localizedDescription": "梦开始的地方！\n这个版本只满足了基础的本地AA分账功能。",
-              "minOSVersion": "16.0"
+              "minOSVersion": "18.0"
           }
       ],
       "screenshots": [

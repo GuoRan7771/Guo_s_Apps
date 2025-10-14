@@ -39,7 +39,7 @@ Guo's Source
 
 5. 打开 iPhone 上的 **AltStore**，进入 **Sources** 界面，点击左上角 **“+”** 添加 Source：  
 
-guoran7771.github.io/Guo_s_Apps/source.json
+<span style="background-color:yellow;">guoran7771.github.io/Guo_s_Apps/source.json</span>
 
 
 6. 点击 **Guo's Apps → Add Source**。

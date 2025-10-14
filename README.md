@@ -1,28 +1,37 @@
-# Guo_s_Apps
-Guo's Source
 
-> 1.在你的Mac或者PC上使用浏览器搜索：https://altstore.io  
-  
-> 2.下滑网页到底，从AltStore Classic中选择Mac或Windows版本的AltServer下载，注意，此处不是AltStore PAL版本！！！    
+6. 点击 **Guo's Apps → Add Source**。
+
 <p align="center">
-  <img src="./assets/Source_assets/j1.png" alt="P1" style="border-radius:10px;">
+<img src="./assets/Source_assets/j4.png" alt="添加 Source 示例" style="border-radius:10px;">
 </p>
 
+7. 返回 Source 界面，选择 **Guo's Apps**，即可查看并下载所有自制 App。
 
-> 3.将你的iPhone连接电脑，使用AltServer将AltStore下载到你的设备，因为AltServer会在电脑后台自动运行，所以请在状态栏寻找它。  
 <p align="center">
-  <img src="./assets/Source_assets/j2.png" alt="P2" style="border-radius:10px;">
+<img src="./assets/Source_assets/j5.png" alt="应用列表示例" style="border-radius:10px;">
 </p>
 
+---
 
-> 4.iPhone上成功安装AltStore后，打开AltStore，在Source界面点击左上角加号添加Source，输入：  
+## 四、原理说明
 
->`guoran7771.github.io/Guo_s_Apps/source.json`  
+通过 **AltStore** 可以安装由我制作并公开发布在 GitHub 上的未签名 `.ipa` 文件：  
+[https://github.com/GuoRan7771/Guo_s_Apps](https://github.com/GuoRan7771/Guo_s_Apps)
 
->点击Guo's Apps 然后Add Source。   
-<p align="center">
-  <img src="./assets/Source_assets/j3.png" alt="P3" style="border-radius:10px;">
-</p> 
+系统会使用安装在电脑上的 **AltServer** 以你的 Apple ID 进行签名，有效期为 7 天。  
+要持续使用这些应用，需每隔不超过 7 天，将电脑与手机连接（Wi-Fi 或有线）以续签。
+
+---
+
+## 五、目前可用应用
+
+- **KuaiJi**  
+一款纯本地账本应用，支持 AA 分账、个人账户管理及蓝牙/Wi-Fi 同步。  
+GitHub 仓库：  
+[https://github.com/GuoRan7771/KuaiJi_IOSApp](https://github.com/GuoRan7771/KuaiJi_IOSApp)
+
+
+
 
 
 

@@ -7,6 +7,7 @@
 
 # Guo_s_Apps  
 Guo's Source  
+**本Source中所有Apps均支持iPhone和iPad**  
 
 ---
 
@@ -60,7 +61,9 @@ guoran7771.github.io/Guo_s_Apps/source.json
 <img src="./assets/Source_assets/j4.png" alt="添加 Source 示例" style="border-radius:10px;">
 </p>
 
-7. 返回 Source 界面，选择 **Guo's Apps**，即可查看并下载所有自制 App。
+7. 返回 Source 界面，选择 **Guo's Apps**，即可查看并下载所有自制 App。  
+
+**首次下载Apps也需要填写Apple ID和密码,任意一个Apple ID均可以，只用于给Apps签名**  
 
 <p align="center">
 <img src="./assets/Source_assets/j5.png" alt="应用列表示例" style="border-radius:10px;">

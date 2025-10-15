@@ -7,6 +7,7 @@
 
 # Guo_s_Apps  
 Source de Guo  
+**Toutes les applications de cette source sont compatibles avec l’iPhone et l’iPad.**  
 
 ---
 
@@ -59,7 +60,9 @@ guoran7771.github.io/Guo_s_Apps/source.json
   <img src="./assets/Source_assets/j4.png" alt="Exemple d’ajout de source" style="border-radius:10px;">
 </p>
 
-7. Revenez à la page **Sources**, sélectionnez **Guo's Apps**, et vous verrez la liste complète des applications disponibles.
+7. Revenez à la page **Sources**, sélectionnez **Guo's Apps**, et vous verrez la liste complète des applications disponibles.  
+
+**Lors du premier téléchargement des applications, vous devrez également saisir votre identifiant Apple et votre mot de passe. N’importe quel identifiant Apple peut être utilisé — il sert uniquement à signer les applications.**
 
 <p align="center">
   <img src="./assets/Source_assets/j5.png" alt="Exemple de liste d’applications" style="border-radius:10px;">

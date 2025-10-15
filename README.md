@@ -7,6 +7,7 @@
 
 # Guo_s_Apps  
 Guo's Source  
+**All apps in this source are compatible with both iPhone and iPad**  
 
 ---
 
@@ -59,7 +60,9 @@ guoran7771.github.io/Guo_s_Apps/source.json
   <img src="./assets/Source_assets/j4.png" alt="Add Source example" style="border-radius:10px;">
 </p>
 
-7. Return to the **Sources** tab and open **Guo's Apps** to view and download all available apps.
+7. Return to the **Sources** tab and open **Guo's Apps** to view and download all available apps.  
+
+**When downloading apps for the first time, you’ll also need to enter your Apple ID and password. Any Apple ID can be used — it’s only required for signing the apps.**
 
 <p align="center">
   <img src="./assets/Source_assets/j5.png" alt="App list example" style="border-radius:10px;">

@@ -28,6 +28,15 @@
         }
       },
       "versions": [
+        {
+              "version": "4.0",
+              "buildVersion": "3",
+              "date": "2025-10-15",
+              "size": 1939031,
+              "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V4_3.ipa",
+              "localizedDescription": "Added More Category Tags",
+              "minOSVersion": "18.0"
+          },
           {
               "version": "4.0",
               "buildVersion": "2",

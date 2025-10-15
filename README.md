@@ -79,7 +79,11 @@ AltServer on your computer signs the apps with your Apple ID. Each signature is 
 To continue using the apps, you must reconnect your iPhone to your computer (via Wi-Fi or cable) and **re-sign** them every 7 days or less.
 
 A bit tedious?
-~~(Don’t blame me—blame Apple. These are their rules.)~~
+~~(Don’t blame me—blame Apple. These are their rules.)~~  
+<details>
+<summary>?</summary>
+Thanks to my girlfriend for all her silent support behind the scenes! heyhey 😁
+</details>
 
 ---
 

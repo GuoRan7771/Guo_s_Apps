@@ -80,7 +80,11 @@ Chaque signature est valable **7 jours**.
 Pour continuer à utiliser ces applications, vous devez reconnecter votre iPhone à l’ordinateur (Wi-Fi ou câble) afin de **renouveler la signature** tous les 7 jours ou moins.
 
 Un peu contraignant ?
-~~(Ne me blâmez pas, blâmez Apple : ce sont leurs règles.)~~
+~~(Ne me blâmez pas, blâmez Apple : ce sont leurs règles.)~~。
+<details>
+<summary>?</summary>
+Merci à ma copine pour tout son soutien discret dans l’ombre ! Heyhey😁
+</details>
 
 ---
 

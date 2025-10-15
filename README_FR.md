@@ -38,7 +38,10 @@ Source de Guo
 </div>
 
 4. Une fois AltStore installé sur l’iPhone, allez dans :  
-   **Réglages → Général → VPN et gestion de l’appareil → App du développeur → Faire confiance à AltStore**
+   **Réglages → Général → VPN et gestion de l’appareil → App du développeur → Faire confiance à AltStore** 
+
+   Si vous n’avez pas encore activé le mode développeur, vous devez également :  
+   **Réglages → Confidentialité et sécurité → Faites défiler jusqu’en bas → Mode développeur → Activez-le, l’appareil redémarrera automatiquement**. 
 
 ---
 

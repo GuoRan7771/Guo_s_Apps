@@ -28,6 +28,7 @@
         }
       },
       "versions": [
+<<<<<<< HEAD
          {
               "version": "4.1",
               "buildVersion": "1",
@@ -37,6 +38,8 @@
               "localizedDescription": "Quickly add personal ledger entries to the shared ledger.",
               "minOSVersion": "18.0"
           },
+=======
+>>>>>>> 2ff78dda3103157c181019ac4da57d5e1990b7d4
           {
               "version": "4.0",
               "buildVersion": "3",

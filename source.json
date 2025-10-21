@@ -30,11 +30,11 @@
       "versions": [
          {
               "version": "4.1",
-              "buildVersion": "2",
+              "buildVersion": "3",
               "date": "2025-10-21",
-              "size": 1990982,
-              "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V4_1_2.ipa",
-              "localizedDescription": "修复法语中逗号无法被判定为小数点的问题，和一些已知的bug。",
+              "size": 1997848,
+              "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V4_1_3.ipa",
+              "localizedDescription": "修复法语中逗号无法被判定为小数点的问题，和一些已知的bug，补全翻译。",
               "minOSVersion": "18.0"
           },
           {

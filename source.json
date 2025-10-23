@@ -9,7 +9,7 @@
   "apps": [
     {
       "name": "KuaiJi",
-      "bundleIdentifier": "com.guo.kuaiji",
+      "bundleIdentifier": "com.guo.kuaijiapp",
       "developerName": "Guo",
       "subtitle": "Glad you finally got the app. See you on the App Store!",
       "localizedDescription": "A fully local accounting app supporting AA expense splitting, personal account management, and Bluetooth/Wi-Fi synchronization.",

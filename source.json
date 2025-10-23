@@ -36,7 +36,8 @@
               "downloadURL": "https://guoran7771.github.io/Guo_s_Apps/ipa/ipa_KuaiJi/KuaiJi_V4_2_1.ipa",
               "localizedDescription": "新增新随系统深浅颜色切换功能",
               "minOSVersion": "17.0"
-          },{
+          },
+          {
               "version": "4.1",
               "buildVersion": "3",
               "date": "2025-10-21",

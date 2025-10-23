@@ -94,10 +94,9 @@ guoran7771.github.io/Guo_s_Apps/source.json
 一款纯本地账本应用，支持 AA 分账、个人账户管理及蓝牙/Wi-Fi 同步。  
 GitHub 仓库：  
 [https://github.com/GuoRan7771/KuaiJi_IOSApp](https://github.com/GuoRan7771/KuaiJi_IOSApp)
-
-过去版本：  
+  
 <details>
-<summary>?</summary>  
+<summary>过去版本：</summary>  
 ,
           {
               "version": "4.1",
